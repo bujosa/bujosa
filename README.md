@@ -23,4 +23,4 @@
 | [thor-ai-setup](https://github.com/bujosa/thor-ai-setup) | Self-hosted AI assistant on Jetson Thor with Open WebUI, Ollama and Gemma 3 |
 
 ## 📊 Stats
-<p align="center"><img src="https://streak-stats.demolab.com?user=bujosa&hide_border=true"/></p>
+<p align="center"><img src="./stats.svg" alt="GitHub stats"/></p>
