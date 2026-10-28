@@ -8,10 +8,10 @@
 ## 🚀 What I'm into
 - AI agents and automations (Claude Code, Grok, Codex)
 - Edge AI on NVIDIA Jetson Orin and Thor: local LLMs, voice and image generation
-- Cloud infrastructure on GCP
+- Cloud infrastructure on AWS and GCP
 - Developer tools for AI-heavy workflows
 
-## ⭐ Featured projects
+## Featured projects
 | Project | What |
 |---|---|
 | [uso](https://github.com/bujosa/uso) | Menu bar usage for Grok, Cursor, Codex, Claude and OpenCode |
