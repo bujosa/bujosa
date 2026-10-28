@@ -22,5 +22,3 @@
 | [nvidia-thor-comfyui](https://github.com/bujosa/nvidia-thor-comfyui) | ComfyUI + Flux.1 on Jetson Thor (Blackwell, 122 GB unified memory) |
 | [thor-ai-setup](https://github.com/bujosa/thor-ai-setup) | Self-hosted AI assistant on Jetson Thor with Open WebUI, Ollama and Gemma 3 |
 
-## 📊 Stats
-<p align="center"><img src="./stats.svg" alt="GitHub stats"/></p>
