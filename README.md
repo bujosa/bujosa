@@ -5,21 +5,6 @@
   <a href="https://davidbujosa.com"><img src="https://img.shields.io/badge/web-davidbujosa.com-black"/></a>
 </p>
 
-## 🖥️ Now building: Sendtry Computer
-Give your MCP agent its own computer, and share its screen when you want to help.
-
-[Sendtry Computer](https://github.com/bujosa/computer-mcp) runs a dedicated Linux desktop in Docker with Chromium, a terminal, a file explorer and screenshots. Claude Code, Codex, Cursor or any `stdio` MCP client connects to it instead of your own machine. You watch the same screen and take over at any time. Teach it a task once by demonstration, review the steps, and export them as a reusable `SKILL.md`.
-
-```bash
-npm install -g @sendtry/computer-mcp
-```
-
-<p>
-  <a href="https://github.com/bujosa/computer-mcp"><img src="https://img.shields.io/badge/GitHub-computer--mcp-181717?logo=github"/></a>
-  <a href="https://www.npmjs.com/package/@sendtry/computer-mcp"><img src="https://img.shields.io/npm/v/@sendtry/computer-mcp?label=npm&color=cb3837"/></a>
-  <a href="https://github.com/bujosa/computer-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue"/></a>
-</p>
-
 ## 🚀 What I'm into
 - AI agents and automations (Claude Code, Grok, Codex)
 - Edge AI on NVIDIA Jetson Orin and Thor: local LLMs, voice and image generation
